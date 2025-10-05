@@ -1,6 +1,6 @@
 "use client";
 
-import Image from "next/image";
+// import Image from "next/image";
 import { useState, useEffect } from "react";
 
 export default function Home() {
@@ -426,7 +426,7 @@ export default function Home() {
             <div>
               <h3 className="text-2xl font-bold mb-4">Wheelzoo</h3>
               <p className="text-gray-400 mb-4">
-                India's most comprehensive car information platform. Get detailed specifications, prices, reviews, and comparisons for every car.
+                India&apos;s most comprehensive car information platform. Get detailed specifications, prices, reviews, and comparisons for every car.
               </p>
               <div className="flex space-x-4">
                 <a href="#" className="text-gray-400 hover:text-white">
